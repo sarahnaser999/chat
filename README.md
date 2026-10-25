@@ -7,12 +7,22 @@ A feature-rich Flutter mobile application designed for real-time messaging, secu
 ## 📱 App Screenshots
 
 <p align="center">
+  <b>Welcome Screen</b><br/><br/>
   <img src="screenshot/welcome.png" width="45%" alt="Welcome Screen"/>
+</p>
+<br/>
+<p align="center">
+  <b>Sign In Screen</b><br/><br/>
   <img src="screenshot/signin.png" width="45%" alt="Sign In Screen"/>
 </p>
 <br/>
 <p align="center">
+  <b>Sign Up Screen</b><br/><br/>
   <img src="screenshot/signup.png" width="45%" alt="Sign Up Screen"/>
+</p>
+<br/>
+<p align="center">
+  <b>Message Screen</b><br/><br/>
   <img src="screenshot/message.png" width="45%" alt="Message Screen"/>
 </p>
 
@@ -32,5 +42,5 @@ A feature-rich Flutter mobile application designed for real-time messaging, secu
 
 This application uses Google Firebase for serverless backend operations:
 - **Firebase Authentication:** Handles user identity and session management.
-- **Cloud Firestore:** Real-NoSQL database for messages and conversation updates.
+- **Cloud Firestore:** Real-time NoSQL database for messages and conversation updates.
 - **Firebase Storage:** File storage for media attachments and user avatars.
