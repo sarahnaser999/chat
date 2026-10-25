@@ -5,26 +5,13 @@ A feature-rich Flutter mobile application designed for real-time messaging, secu
 ---
 
 ## 📱 App Screenshots
+Homepage | SignIn Screen |
+| :---: | :---: |
+| ![Welcome](screenshot/welcome.png) | ![SignIn ](screenshot/signin.png) |
 
-<p align="center">
-  <b>Welcome Screen</b><br/><br/>
-  <img src="screenshot/welcome.png" width="45%" alt="Welcome Screen"/>
-</p>
-<br/>
-<p align="center">
-  <b>Sign In Screen</b><br/><br/>
-  <img src="screenshot/signin.png" width="45%" alt="Sign In Screen"/>
-</p>
-<br/>
-<p align="center">
-  <b>Sign Up Screen</b><br/><br/>
-  <img src="screenshot/signup.png" width="45%" alt="Sign Up Screen"/>
-</p>
-<br/>
-<p align="center">
-  <b>Message Screen</b><br/><br/>
-  <img src="screenshot/message.png" width="45%" alt="Message Screen"/>
-</p>
+| Signup Screen | Message Screen |
+| :---: | :---: |
+| ![signup](screenshot/signup.png) | ![message](screenshot/message.png) |
 
 ---
 
