@@ -8,7 +8,7 @@ A feature-rich Flutter mobile application designed for real-time messaging, secu
 
 <p align="center">
   <img src="screenshot/welcome.png" width="45%" alt="Welcome Screen"/>
-  <img src="screenshot/sign in.png" width="45%" alt="Sign In Screen"/>
+  <img src="screenshot/signin.png" width="45%" alt="Sign In Screen"/>
 </p>
 <br/>
 <p align="center">
